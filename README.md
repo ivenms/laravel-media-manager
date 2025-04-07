@@ -15,6 +15,7 @@
 * 4.0.0 - Laravel 9
 * 4.0.1 - Laravel 10
 * 4.0.2 - Laravel 11
+* 4.0.3 - Laravel 12
 
 
 ## Installation
